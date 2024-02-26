@@ -1,6 +1,7 @@
 # presentations
 
 1 2023-多领域信息融合OneRec推荐专场
+
 datafun邀请,组织了这个专题。从2019年开始关注多种信息的萃取融合在推荐算法中的作用，发起了OneRec项目，希望通过各种信息（多类型行为，内容，社交，知识图谱等）的知识集成，极大扩充推荐的“Extra World Knowledge”。这次分享了部分进展。项目开源在：https://github.com/xuanjixiao/onerec。欢迎大家共建。
 
 OneRec系列之知识图谱增强的腾讯视频推荐算法 https://mp.weixin.qq.com/s/K9gRx3eRrW-5Ps-Wzc8hlA
@@ -13,6 +14,7 @@ OneREC系列之基于神经元级共享的 CTR、CVR 多任务联合预估方法
 
 
 2 2023-2023年工业界排序模型新进展
+
 CTR 2023 最新进展：Calibration based MetaRec CTR  https://mp.weixin.qq.com/s/6DiE5VYJGA_2NAtuSh_okw
 
 CVR 2023进展:Click-aware Structure Transfer with Sample Assignment https://mp.weixin.qq.com/s/iHv_5QfbVV2clNUIFMmJrw
@@ -24,6 +26,7 @@ CVR 2023进展:Click-aware Structure Transfer with Sample Assignment https://mp.
  
 
 3 2023 Datafun Summit--面向2026年的推荐系统的十个问题
+
 演讲题目：面向2026年的推荐算法前瞻
 演讲提纲：
 • 常规的推荐系统范式已经逐渐走入瓶颈，原因是在当前固定化的问题描述下模型和系统几乎已经发展 到极限。当前的主要范式是模型是召回+排序+重排，系统上是样本挖掘+特征工程+线上打分预估能力建设。一线大厂在上述领域已经把空间几乎挖掘殆尽。
