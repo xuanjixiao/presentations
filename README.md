@@ -13,6 +13,12 @@ OneREC系列之基于神经元级共享的 CTR、CVR 多任务联合预估方法
 
 
 2 2023-2023年工业界排序模型新进展
+CTR 2023 最新进展：Calibration based MetaRec CTR  https://mp.weixin.qq.com/s/6DiE5VYJGA_2NAtuSh_okw
+
+CVR 2023进展:Click-aware Structure Transfer with Sample Assignment https://mp.weixin.qq.com/s/iHv_5QfbVV2clNUIFMmJrw
+
+推荐多任务进展：用户生命周期视角下的多任务推荐模型 STAN  https://mp.weixin.qq.com/s/PFn9o8poAR--MCA9FLA18Q
+
 
  <img src="https://github.com/xuanjixiao/presentations/blob/main/2023%E5%B9%B4%E5%B7%A5%E4%B8%9A%E7%95%8C%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B%E6%96%B0%E8%BF%9B%E5%B1%95.jpg" width="50%" height="10%" />
  
