@@ -7,7 +7,7 @@ OneRec系列之知识图谱增强的腾讯视频推荐算法 https://mp.weixin.q
 
 OneREC系列之基于社交兴趣增强的视频推荐算法 https://mp.weixin.qq.com/s/2Ao6ChYRmGtDU8LeE_HrBQ
 
-OneREC系列之多任务学习最新进展：基于神经元级共享的 CTR、CVR 多任务联合预估方法  https://mp.weixin.qq.com/s/4PO6EK3b4VCKO0ibd76C9w
+OneREC系列之基于神经元级共享的 CTR、CVR 多任务联合预估方法 https://mp.weixin.qq.com/s/4PO6EK3b4VCKO0ibd76C9w
 
  <img src="https://github.com/xuanjixiao/presentations/blob/main/%E5%A4%9A%E9%A2%86%E5%9F%9F%E4%BF%A1%E6%81%AF%E8%9E%8D%E5%90%88OneRec%E6%8E%A8%E8%8D%90%E4%B8%93%E5%9C%BA.jpg" width='50%' height='25%' />
 
