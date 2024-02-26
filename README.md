@@ -17,6 +17,8 @@ OneREC系列之基于社交兴趣增强的视频推荐算法 https://mp.weixin.q
 
 OneREC系列之基于神经元级共享的 CTR、CVR 多任务联合预估方法 https://mp.weixin.qq.com/s/4PO6EK3b4VCKO0ibd76C9w
 
+4）OneRec系列强化学习建模长期价值， 对于一个session浏览过程，结合短期reward和长期reward，来建模用户价值，从而找到LTV价值更高的结果给到用户，在视频场景和google RL simulator上均有正向效果。https://arxiv.org/pdf/2302.06101.pdf， WWW 2023
+
  <img src="https://github.com/xuanjixiao/presentations/blob/main/%E5%A4%9A%E9%A2%86%E5%9F%9F%E4%BF%A1%E6%81%AF%E8%9E%8D%E5%90%88OneRec%E6%8E%A8%E8%8D%90%E4%B8%93%E5%9C%BA.jpg" width="50%" height="10%" />
 
 
