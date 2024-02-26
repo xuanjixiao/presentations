@@ -7,6 +7,9 @@ datafun邀请,组织了这个专题。从2019年开始关注多种信息的萃�
 
 
 2 2023-2023年工业界排序模型新进展
+
+ <img src="https://github.com/xuanjixiao/presentations/blob/main/2023%E5%B9%B4%E5%B7%A5%E4%B8%9A%E7%95%8C%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B%E6%96%B0%E8%BF%9B%E5%B1%95.jpg" width='50%' height='25%' />
+ 
 ![2023年工业界排序模型新进展](https://github.com/xuanjixiao/presentations/assets/15994016/0c1b1b5e-04e8-452a-bc23-8d0ecf7d099d)
 
 3 2023 Datafun Summit--面向2026年的推荐系统的十个问题
